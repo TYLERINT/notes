@@ -10,6 +10,10 @@ In my _app.js_, I see the follow snippet of code:
 
 Does this just search the whole project folder for the API credentials?  
 
+<br/>
+
 ### 2. Why does the jovo debugger sometimes say "Not Connected", even when I've just run `jovo run` while in my project folder? 
 
-### 3. Am I supposed to build out the logic?
+<br/>
+
+### 3. What's supposed to happen after the intro plays ("Welcome welcome welcome!")?

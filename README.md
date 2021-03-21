@@ -2,7 +2,9 @@
 
 ## Timesheet Assistant by Sweets
 
-#### 1. In my _app.js_, I see the follow snippet of code:
+#### 1. Clarification:
+
+In my _app.js_, I see the follow snippet of code:
 
 `await doc.useServiceAccountAuth(require('./google-sheets-credentials.json')); `
 

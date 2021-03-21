@@ -1,6 +1,6 @@
 # Questions and clarifications
 
-##Timesheet Assistant by @SweetmanTech 
+## Timesheet Assistant by @SweetmanTech 
 
 ### 1. 
 

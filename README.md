@@ -1,7 +1,6 @@
 # Questions
 
-# 1. 
-How do I ensure that my Jovo voice app can see my google sheets API credentials?
+# 1. How do I ensure that my Jovo voice app can see my google sheets API credentials?
 
 In my _app.js_, I see the follow snippet of code:
 

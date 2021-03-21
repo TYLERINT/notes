@@ -1,8 +1,8 @@
 # Questions and clarifications
 
-- ## Timesheet Assistant by Sweets
+## Timesheet Assistant by Sweets
 
-### 1. 
+#### 1. 
 
 In my _app.js_, I see the follow snippet of code:
 
@@ -10,10 +10,10 @@ In my _app.js_, I see the follow snippet of code:
 
 Does this just search the whole project folder for the API credentials?
 
-### 2. 
+#### 2. 
 
 Why does the jovo debugger sometimes say "Not Connected", even when I've just run `jovo run` while in my project folder? 
 
-### 3. 
+#### 3. 
 
 Am I supposed to build out the logic? Right now the action doesn't seem to do anything after playing the welcome 

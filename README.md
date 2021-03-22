@@ -17,3 +17,7 @@ Does this just search the whole project folder for the API credentials?
 <br/>
 
 ### 3. What's supposed to happen after the intro plays ("Welcome welcome welcome!")?
+
+<br/>
+
+### 4. what does `npm i` do 
